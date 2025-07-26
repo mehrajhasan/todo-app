@@ -27,7 +27,7 @@ Simple CRUD app built with Spring Boot to manage to-do items.
 ### Run the app
 
 ```bash
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/mehrajhasan/todo-app.git
 cd todo-app
 mvn spring-boot:run
 
